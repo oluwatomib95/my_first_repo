@@ -46,7 +46,6 @@ streamlit.write('The user entered ', fruit_choice)
 # streamlit.text(fruityvice_response.json())
 
 
-streamlit.stop()
 
 
 streamlit.header("The fruit load list contains:")
